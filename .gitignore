@@ -22,3 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Pastas específicas do NetBeans e Compilação
+/build/
+/nbproject/
+/dist/
+nbbuild/
+nbdist/
+private/
